@@ -17,6 +17,5 @@ public class HelloWorld extends OpMode {
     @Override
     public void loop() {
     // intentionally left blank
-        // fill in later
     }
 }
