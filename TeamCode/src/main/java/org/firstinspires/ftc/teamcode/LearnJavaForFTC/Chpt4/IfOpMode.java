@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt4;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
-@TeleOp
+//@TeleOp
 public class IfOpMode extends OpMode {
     @Override
     public void init() {

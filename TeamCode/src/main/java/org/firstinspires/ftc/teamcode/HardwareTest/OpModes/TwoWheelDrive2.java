@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 import org.firstinspires.ftc.teamcode.HardwareTest.mechanisms.TwoDriveMotors;
 
-@TeleOp
+//@TeleOp
 public class TwoWheelDrive2 extends OpMode {
 
     TwoDriveMotors board = new TwoDriveMotors();

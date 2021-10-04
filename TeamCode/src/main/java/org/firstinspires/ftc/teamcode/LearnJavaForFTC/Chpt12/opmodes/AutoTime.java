@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt11.mechanisms.ProgrammingBoard8;
 
-@Autonomous
+//@Autonomous
 public class AutoTime extends OpMode {
 
     enum State {

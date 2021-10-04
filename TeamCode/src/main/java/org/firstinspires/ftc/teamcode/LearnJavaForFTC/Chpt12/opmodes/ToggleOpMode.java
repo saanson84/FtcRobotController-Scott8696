@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt11.mechanisms.ProgrammingBoard8;
 
-@TeleOp
+//@TeleOp
 public class ToggleOpMode extends OpMode {
     ProgrammingBoard8 board = new ProgrammingBoard8();
     boolean aAlreadyPressed;

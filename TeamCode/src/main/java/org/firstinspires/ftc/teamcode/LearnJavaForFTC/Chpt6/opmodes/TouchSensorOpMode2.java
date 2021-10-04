@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt6.mechanisms.ProgrammingBoard2;
 
-@TeleOp()
+//@TeleOp()
 public class TouchSensorOpMode2 extends OpMode {
     ProgrammingBoard2 board = new ProgrammingBoard2();
 

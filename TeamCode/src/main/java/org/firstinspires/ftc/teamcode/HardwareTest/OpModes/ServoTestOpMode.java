@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 import org.firstinspires.ftc.teamcode.HardwareTest.mechanisms.ServoOnly;
 
-@TeleOp()
+//@TeleOp()
 public class ServoTestOpMode extends OpMode {
     ServoOnly board = new ServoOnly();
 

@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt9.mechanisms.ProgrammingBoard6;
 
 
-@TeleOp
+//@TeleOp
 public class PotOpMode extends OpMode {
     ProgrammingBoard6 board = new ProgrammingBoard6();
 

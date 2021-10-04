@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import org.firstinspires.ftc.robotcore.external.navigation.AngleUnit;
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt11.mechanisms.ProgrammingBoard8;
 
-@TeleOp
+//@TeleOp
 public class GyroOpMode extends OpMode {
 
     private ProgrammingBoard8 board = new ProgrammingBoard8();

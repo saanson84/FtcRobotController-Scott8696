@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt8.mechanisms.ProgrammingBoard5;
 
-@TeleOp
+//@TeleOp
 public class ServoGamePadOpMode extends OpMode {
     ProgrammingBoard5 board = new ProgrammingBoard5();
 

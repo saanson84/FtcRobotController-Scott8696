@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt7.mechanisms.ProgrammingBoard4;
 
-@TeleOp()
+//@TeleOp()
 public class MotorOpMode2 extends OpMode {
     ProgrammingBoard4 board = new ProgrammingBoard4();
 

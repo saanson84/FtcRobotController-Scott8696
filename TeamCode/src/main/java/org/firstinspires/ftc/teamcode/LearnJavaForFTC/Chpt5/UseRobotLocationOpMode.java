@@ -3,7 +3,7 @@ package org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt5;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
-@TeleOp
+//@TeleOp
 public class UseRobotLocationOpMode extends OpMode {
     RobotLocation robotLocation = new RobotLocation(0);
 

@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 
 import org.firstinspires.ftc.teamcode.LearnJavaForFTC.Chpt11.mechanisms.ProgrammingBoard8;
 
-@Autonomous
+//@Autonomous
 public class AutoState1 extends OpMode {
     ProgrammingBoard8 board = new ProgrammingBoard8();
     int state;

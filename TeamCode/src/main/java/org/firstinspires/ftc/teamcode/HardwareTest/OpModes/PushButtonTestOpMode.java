@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
 import org.firstinspires.ftc.teamcode.HardwareTest.mechanisms.PushButtonOnly;
 
-@TeleOp()
+//@TeleOp()
 public class PushButtonTestOpMode extends OpMode {
     PushButtonOnly board = new PushButtonOnly();
 
