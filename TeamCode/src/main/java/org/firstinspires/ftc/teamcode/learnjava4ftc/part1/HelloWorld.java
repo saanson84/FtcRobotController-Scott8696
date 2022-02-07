@@ -7,7 +7,8 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 public class HelloWorld extends OpMode {
   
   /*
-  *   This method is called when the OpMode is initialized
+  *   This method is called when the OpMode is initialized and
+  *   prints "Hello World" to the Driver's Station.
   */
   @Override
   public void init() {
